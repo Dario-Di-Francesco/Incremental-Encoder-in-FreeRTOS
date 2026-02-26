@@ -69,7 +69,3 @@ If `home_slit` occurs **once per revolution**, then:
 
 Where `Δt_seconds` is the time between two consecutive home events.  
 (If your emulator generates multiple home pulses per turn, adjust accordingly.)
-
----
-
-## Expected output (example)
